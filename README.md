@@ -55,13 +55,11 @@
   </div>
   <h4 align="left">Automated TKG deployment on VMware Cloud on AWS</h4>
   <div style="float: left; width: 30%;">
-    <a href="[https://www.youtube.com/watch?v=another-video-id](https://www.youtube.com/watch?v=1-Ep5iwKcL4)">
-      <img src="./media/Lightboard_video__Automated_Tanzu_Kubernetes_Grid_on_VMware.gif" alt="Automated TKG deployment on VMware Cloud on AWS">
+    <a href="https://www.youtube.com/watch?v=1-Ep5iwKcL4">
+      <img src="/media/Lightboard_video__Automated_Tanzu_Kubernetes_Grid_on_VMware.gif" alt="Designing a portable cloudnative application video">
     </a>
   </div>
-</div>
-
-
+  
   
   
 
