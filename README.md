@@ -28,6 +28,8 @@
 <a href="https://argoproj.github.io/argo-cd/" target="_blank"> <img src="https://img.shields.io/badge/ArgoCD-FF6C2F?style=for-the-badge&logo=argocd&logoColor=white" alt="argocd" </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" </a>
 <a href="https://argoproj.github.io/argo/" target="_blank"> <img src="https://img.shields.io/badge/Argo%20Workflows-FF6C2F?style=for-the-badge&logo=argoproj&logoColor=white" alt="argo workflows" </a>
+</a>
+  <a href="https://tekton.dev/" target="_blank"><img src="https://img.shields.io/badge/Tekton-3D6E8F?style=for-the-badge&amp;logo=tekton&amp;logoColor=white" alt="Tekton"></a>
 <a href="https://concourse-ci.org/" target="_blank"> <img src="https://img.shields.io/badge/Concourse%20CI-212121?style=for-the-badge&logo=concourse&logoColor=white" alt="concourse ci" </a>
 <a href="https://tanzu.vmware.com/" target="_blank"> <img src="https://img.shields.io/badge/VMware%20Tanzu-0072C6?style=for-the-badge" alt="vmware tanzu" </a>
 <a href="https://www.vaultproject.io/" target="_blank"><img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&amp;logo=vault&amp;logoColor=FFD814" alt="HashiCorp Vault"></a>
@@ -37,7 +39,8 @@
 </a>
 <a href="https://carvel.dev/" target="_blank"> 
   <img src="https://img.shields.io/badge/Carvel-2561A3?style=for-the-badge&logo=carvel&logoColor=white" alt="Carvel">
-</a>
+
+
 
 
 
