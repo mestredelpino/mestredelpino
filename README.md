@@ -32,9 +32,14 @@
 <a href="https://tanzu.vmware.com/" target="_blank"> <img src="https://img.shields.io/badge/VMware%20Tanzu-0072C6?style=for-the-badge" alt="vmware tanzu" </a>
 <a href="https://www.vaultproject.io/" target="_blank"><img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&amp;logo=vault&amp;logoColor=FFD814" alt="HashiCorp Vault"></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"></a>
+<a href="https://min.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/minio-C72C45?style=for-the-badge&logo=minio&logoColor=FFFFFF" alt="minio"> 
+</a>
 <a href="https://carvel.dev/" target="_blank"> 
   <img src="https://img.shields.io/badge/Carvel-2561A3?style=for-the-badge&logo=carvel&logoColor=white" alt="Carvel">
 </a>
+
+
 
 
 
