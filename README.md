@@ -1,12 +1,20 @@
 # Welcome to mestredelpino's GitHub 👋
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Frameworks:</h2>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+</a>
+<a href="https://expressjs.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</a>
 <a href="https://yaml.org/" target="_blank"> <img src="https://img.shields.io/badge/YAML-2E9AFE?style=for-the-badge&logo=yaml&logoColor=white" alt="yaml" </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+
+
 
 
 
