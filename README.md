@@ -13,6 +13,7 @@
 <a href="https://yaml.org/" target="_blank"> <img src="https://img.shields.io/badge/YAML-2E9AFE?style=for-the-badge&logo=yaml&logoColor=white" alt="yaml" </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+  
 
 
 
@@ -41,6 +42,28 @@
   <img src="https://img.shields.io/badge/Carvel-2561A3?style=for-the-badge&logo=carvel&logoColor=white" alt="Carvel">
 
 
+<h2 align="left">Videos:</h2>
+
+<h4 align="left">Desgning a portable cloud-native application in Google Cloud</h4>
+
+  
+<div style="overflow: auto;">
+  <div style="float: left; width: 30%;">
+    <a href="https://www.youtube.com/watch?v=hVtr2dR3Bvo">
+      <img src="./media/Lightboard_video__Designing_a_portable_cloudnative_applica.gif" alt="Designing a portable cloudnative application video">
+    </a>
+  </div>
+  <h4 align="left">Automated TKG deployment on VMware Cloud on AWS</h4>
+  <div style="float: left; width: 30%;">
+    <a href="[https://www.youtube.com/watch?v=another-video-id](https://www.youtube.com/watch?v=1-Ep5iwKcL4)">
+      <img src="./media/Lightboard_video__Automated_Tanzu_Kubernetes_Grid_on_VMware.gif" alt="Automated TKG deployment on VMware Cloud on AWS">
+    </a>
+  </div>
+</div>
+
+
+  
+  
 
 
 
@@ -57,7 +80,6 @@
 <p align="left">
 <a href="https://twitter.com/mestredelpino" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/mestredelpino?logo=twitter&style=for-the-badge" alt="mestredelpino" /></a>
 </p>
-<br>
 <p style="font-size: 12px;">Visit <a href="https://mestredelpino.com" target="_blank" style="color: #333; font-weight: bold; text-decoration: none;">mestredelpino.com</a> for more content!</p>
 
 
