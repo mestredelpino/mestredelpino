@@ -31,6 +31,9 @@
 <a href="https://argoproj.github.io/argo/" target="_blank"> <img src="https://img.shields.io/badge/Argo%20Workflows-FF6C2F?style=for-the-badge&logo=argoproj&logoColor=white" alt="argo workflows" </a>
 </a>
   <a href="https://tekton.dev/" target="_blank"><img src="https://img.shields.io/badge/Tekton-3D6E8F?style=for-the-badge&amp;logo=tekton&amp;logoColor=white" alt="Tekton"></a>
+<a href="https://helm.sh/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Helm-0D8ABF?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+</a>
 <a href="https://concourse-ci.org/" target="_blank"> <img src="https://img.shields.io/badge/Concourse%20CI-212121?style=for-the-badge&logo=concourse&logoColor=white" alt="concourse ci" </a>
 <a href="https://tanzu.vmware.com/" target="_blank"> <img src="https://img.shields.io/badge/VMware%20Tanzu-0072C6?style=for-the-badge" alt="vmware tanzu" </a>
 <a href="https://www.vaultproject.io/" target="_blank"><img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&amp;logo=vault&amp;logoColor=FFD814" alt="HashiCorp Vault"></a>
