@@ -37,9 +37,6 @@
 <a href="https://concourse-ci.org/" target="_blank"> <img src="https://img.shields.io/badge/Concourse%20CI-212121?style=for-the-badge&logo=concourse&logoColor=white" alt="concourse ci" </a>
 <a href="https://tanzu.vmware.com/" target="_blank"> <img src="https://img.shields.io/badge/VMware%20Tanzu-0072C6?style=for-the-badge" alt="vmware tanzu" </a>
 <a href="https://www.vaultproject.io/" target="_blank"><img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&amp;logo=vault&amp;logoColor=FFD814" alt="HashiCorp Vault"></a>
-<a href="https://crossplane.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Crossplane-000000?style=for-the-badge&amp;logo=crossplane&amp;logoColor=FFD814" alt="Crossplane">
-</a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"></a>
 <a href="https://min.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/minio-C72C45?style=for-the-badge&logo=minio&logoColor=FFFFFF" alt="minio"> 
